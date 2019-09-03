@@ -1,0 +1,7 @@
+DEPENDENCIES
+  tinar_haproxy
+    path: .
+    metadata: true
+
+GRAPH
+  tinar_haproxy (0.1.1)
